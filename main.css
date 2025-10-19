@@ -1,0 +1,18 @@
+table, tr, th, td, caption {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+body {
+    background: rgb(30, 30, 30);
+    color: rgb(245, 245, 245);
+}
+
+a {
+    color: rgb(255, 152, 152);
+}
+
+a:visited {
+    color: rgb(182, 211, 255);
+}
